@@ -1,0 +1,6 @@
+whisper @ git+https://github.com/openai/whisper.git@9e653bd0ea0f1e9493cb4939733e9de249493cfb
+ffmpeg-python==0.2.0
+pytube==12.1.0
+streamlit==1.15.2
+watchdog==2.1.9
+astunparse==1.6.3
